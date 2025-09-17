@@ -1,0 +1,13 @@
+{
+  "job_id": "3ecf82a9-25c7-4acc-8844-306567ae0091",
+  "script": "download_binance",
+  "config": "configs/config-sample-1h.jsonc",
+  "pid": 3982,
+  "status": "failed",
+  "start_time": 1758138849.693751,
+  "end_time": 1758138851.1953075,
+  "returncode": 1,
+  "log_stdout": "/home/runner/work/intelligent-trading-bot/intelligent-trading-bot/logs/jobs/3ecf82a9-25c7-4acc-8844-306567ae0091.stdout.log",
+  "log_stderr": "/home/runner/work/intelligent-trading-bot/intelligent-trading-bot/logs/jobs/3ecf82a9-25c7-4acc-8844-306567ae0091.stderr.log",
+  "env_snapshot_path": "/home/runner/work/intelligent-trading-bot/intelligent-trading-bot/logs/jobs/3ecf82a9-25c7-4acc-8844-306567ae0091.env.json"
+}
